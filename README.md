@@ -23,3 +23,6 @@ $ zip function.zip main
 
 ### 問題点
 2022/05/05(木)時点では、AWSコンソール上でGo1.xランタイムで稼働するLambdaのソースコードのインライン編集ができない。
+
+### vscodeの設定
+[vscodeでサブディレクトリにgo.modを管理している場合はexperimentalWorkspaceModuleを有効化する必要がある](https://qiita.com/chanhama/items/a21ca7d5cd43d6f3f90d)
